@@ -1,10 +1,10 @@
 ## Project Title
 
-## Side Quest 1 with Github
+Side Quest 1 with Github
 
 ## Group Members
 
-## Abiha Shah, a43shah, 21078965
+Abiha Shah, a43shah, 21078965
 
 ## Description
 
